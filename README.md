@@ -1,6 +1,8 @@
 # MAM_ATB2026
 Repositorio de Aplicaciones Tecnológicas B 2026
 
+![Texto alternativo](CLASE_1/semaforo-2.png)
+
 # Clase 1 · Introducción a Arduino: señales, bits y semáforo 🚦
 
 > **Objetivos de la clase:** Comprender la relación entre fenómenos eléctricos con instrucciones de programación.
