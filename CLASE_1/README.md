@@ -19,10 +19,9 @@ Al finalizar la clase, las y los estudiantes podrán:
 9. Extender el ejercicio hacia un **semáforo vial + peatonal**.
 
 ---
+![Texto alternativo](semaforo-2.png)
 
 # 📦 Materiales
-
-Por grupo:
 
 - 1 × Arduino UNO
 - 1 × cable USB AB
