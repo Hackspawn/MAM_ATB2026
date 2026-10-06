@@ -480,17 +480,18 @@ Arduino ejecuta estas funciones automáticamente.
 
 # 9. 🧩 ¿Qué significa `void`?
 
-Esta palabra suele aparecer desde el primer programa Arduino:
+Void indica que una función no devuelve ningún valor al terminar de ejecutarse. Esta palabra suele aparecer desde el primer programa Arduino:
 
 ```cpp
 void setup()
 ```
-
+Se ejecuta una sola vez cuando enciendes la placa o presionas el botón de reinicio.
 y:
 
 ```cpp
 void loop()
 ```
+Se ejecuta en bucle de forma continua e infinita inmediatamente después de que termina el setup.
 
 pero conviene entender qué significa.
 
