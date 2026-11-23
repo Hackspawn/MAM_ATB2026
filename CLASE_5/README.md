@@ -26,6 +26,8 @@ Al finalizar la sesión, cada estudiante podrá:
 
 ## 01 · ¿Por qué capturar y almacenar datos?
 
+![Conexión de Arduino con sensor de temperatura y módulo microSD](./tmp35_SD-2.png)
+
 En las clases anteriores utilizamos sensores para obtener información del entorno y **observar los valores en tiempo real** mediante `Serial.print()` y `Serial.println()`. Sin embargo, si cerramos el Monitor Serial, esa visualización no constituye por sí misma un registro permanente.
 
 Al incorporar una memoria microSD podemos **guardar una sucesión de mediciones** y revisarlas posteriormente. Esta operación se conoce como *registro de datos* o *data logging*.
